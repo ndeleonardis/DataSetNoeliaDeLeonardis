@@ -1,5 +1,4 @@
 Id_inflacion,anio,mes,nivel_general,InflacionMensual
-1,1943,1,10,Null
 2,1943,2,10,-0.58
 3,1943,3,10,1.58
 4,1943,4,10,0.66
@@ -851,7 +850,6 @@ Id_inflacion,anio,mes,nivel_general,InflacionMensual
 850,2013,10,163,0.89
 851,2013,11,164.51,0.93
 852,2013,12,166.84,1.42
-853,2014,1,94.84,
 854,2014,2,98.08,3.24
 855,2014,3,100.62,2.54
 856,2014,4,102.42,1.8
@@ -873,20 +871,6 @@ Id_inflacion,anio,mes,nivel_general,InflacionMensual
 872,2015,8,124.03,1.44
 873,2015,9,125.49,1.46
 874,2015,10,126.88,1.39
-875,2015,11,Null,Null
-876,2015,12,Null,Null
-877,2016,1,Null,Null
-878,2016,2,Null,Null
-879,2016,3,Null,Null
-880,2016,4,Null,Null
-881,2016,5,Null,Null
-882,2016,6,Null,Null
-883,2016,7,Null,Null
-884,2016,8,Null,Null
-885,2016,9,Null,Null
-886,2016,10,Null,Null
-887,2016,11,Null,Null
-888,2016,12,Null,Null
 889,2017,1,,1.6
 890,2017,2,,2.1
 891,2017,3,,2.4
@@ -974,4 +958,3 @@ Id_inflacion,anio,mes,nivel_general,InflacionMensual
 973,2024,1,,20.6
 974,2024,2,,13.2
 975,2024,3,,11
-976,2024,4,Null,Null
